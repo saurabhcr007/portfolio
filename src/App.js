@@ -24,10 +24,10 @@ function App() {
                 <spam class="links">about</spam>
               </div>
               <div class="header_link">
-                <spam class="links">projects</spam>
+                <spam class="links"><a>projects</a></spam>
               </div>
               <div class="header_link">
-                <spam class="links">Resume</spam>
+                <spam class="links"><a href="https://drive.google.com/file/d/1VFd23sWfrjW74J_uNm1Fckr_N2B8QJxn/view?usp=share_link">Resume</a></spam>
               </div>
             </div>
           </div>

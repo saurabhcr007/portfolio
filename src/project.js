@@ -24,16 +24,37 @@ function Project() {
                         </div>
                     </div>
                     <div class="main_content-project-row">
-                        <div class="main_content-project-img"></div>
-                        <div class="main_content-project-content"></div>
+                        <div class="main_content-project-img">
+                            <img class="projects__row-img" src={Porject1} alt="porject1" />
+                        </div>
+                        <div class="main_content-project-content">
+                            <h3 class="main_content-project-content-heading">Password Generator</h3>
+                            <p class="main_content-project-content-paragraph">wertyudsdg sdg sd dsg sd g gsd gsdg sdg sd gs dg sdg sdg s dgsdg dh dhdtg dfgh yhjgkjh ghkjljhgkj gfjgklhkj</p>
+                            <a class="main_content-project-content-button-code">CODE</a>
+                            <a class="main_content-project-content-button-site">SITE</a>
+                        </div>
                     </div>
                     <div class="main_content-project-row">
-                        <div class="main_content-project-img"></div>
-                        <div class="main_content-project-content"></div>
+                        <div class="main_content-project-img">
+                            <img class="projects__row-img" src={Porject1} alt="porject1" />
+                        </div>
+                        <div class="main_content-project-content">
+                            <h3 class="main_content-project-content-heading">Memes Generator</h3>
+                            <p class="main_content-project-content-paragraph">wertyudsdg sdg sd dsg sd g gsd gsdg sdg sd gs dg sdg sdg s dgsdg dh dhdtg dfgh yhjgkjh ghkjljhgkj gfjgklhkj</p>
+                            <a class="main_content-project-content-button-code">CODE</a>
+                            <a class="main_content-project-content-button-site">SITE</a>
+                        </div>
                     </div>
                     <div class="main_content-project-row">
-                        <div class="main_content-project-img"></div>
-                        <div class="main_content-project-content"></div>
+                        <div class="main_content-project-img">
+                            <img class="projects__row-img" src={Porject1} alt="porject1" />
+                        </div>
+                        <div class="main_content-project-content">
+                            <h3 class="main_content-project-content-heading">Portfolio</h3>
+                            <p class="main_content-project-content-paragraph">wertyudsdg sdg sd dsg sd g gsd gsdg sdg sd gs dg sdg sdg s dgsdg dh dhdtg dfgh yhjgkjh ghkjljhgkj gfjgklhkj</p>
+                            <a class="main_content-project-content-button-code">CODE</a>
+                            <a class="main_content-project-content-button-site">SITE</a>
+                        </div>
                     </div>
                 </div>
             </section>

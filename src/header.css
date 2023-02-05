@@ -80,3 +80,13 @@
 ::-webkit-scrollbar-thumb:hover {
     background: #444444; 
 }
+.header_link{
+    padding: 0rem 3rem;
+    display: inline-block;
+    font-size: 1.6rem;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    transition: color .3s;
+}
