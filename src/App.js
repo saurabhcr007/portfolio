@@ -36,6 +36,11 @@ function App() {
       <Home />
       <About />
       <Project />
+      <footer class="footer">
+        <div class="footer_main">
+          <div></div>
+        </div>
+      </footer>
     </div>
   );
 }
