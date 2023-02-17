@@ -54,4 +54,8 @@
     font-weight: 600;
     color: rgb(0, 0, 0);
 }
+.skill_tree-skill:hover{
+    transform: scale(1.25);
+    background-color: yellow;
+}
 

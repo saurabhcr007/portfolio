@@ -28,9 +28,6 @@ function Home() {
                 <a href="https://www.reddit.com/user/Saurabh_cr_007"><img src={Reddit} class="slinks"></img></a>
               </div>
               <div class="s_link">
-                <a href="https://store.epicgames.com/en-US/u/6155006e16f14abe80c1300827691a86"><img src={Epic} class="slinks"></img></a>
-              </div>
-              <div class="s_link">
                 <a href="mailto:supersaurabh017@gmail.com"><img src={Email} class="slinks"></img></a>
               </div>
               <div class="s_link">

@@ -14,8 +14,9 @@ function About(){
                         <h3 class="about_content-title">KNOW ME !</h3>
                         <div class="about_content-detail">
                             <p class="about_content-detail-paragraph">My name is <b>Saurabh Chaudhary</b> and I am Persuing my B.Tech in <b>Computer Sciences and Information Technology.</b></p>
-                            <p class="about_content-detail-paragraph">I am a <b>Engineer</b> , Who can use skill to that leads to the success of the overall Organization<b>.</b> I always very excited to learn new things or try new things <b>.</b></p>
-                            <p class="about_content-detail-paragraph">I have made some projects, which you can find below <b>.</b> I have made them when i was learning about the tech stacks<b>.</b></p>
+                            <p class="about_content-detail-paragraph">I am a <b>Engineering Student</b> , Who can use skill to that leads to the success of the overall Organization<b>.</b> I always very excited to learn new things or try new things <b>.</b></p>
+                            {/* <p class="about_content-detail-paragraph">I have made some projects, which you can find below <b>.</b> I have made them when i was learning about the tech stacks<b>.</b></p> */}
+                            <p class="about_content-detail-paragraph">I'm open to <b>Job opportunities</b> where I can contribute, learn and grow<b>.</b></p>
                         </div>
                     </div>
                     <div class="about_content-skill">

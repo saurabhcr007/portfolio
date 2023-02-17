@@ -1,8 +1,7 @@
 import './project.css'
-import Porject1 from './Images/project1.png';
 import Porject2 from './Images/project2.png';
 import Porject3 from './Images/project3.png';
-import Porject4 from './Images/project1.png';
+import Porject4 from './Images/project4.png';
 
 function Project() {
     return (
@@ -17,46 +16,35 @@ function Project() {
                 <div class="main_content-project">
                     <div class="main_content-project-row">
                         <div class="main_content-project-img">
-                            <img class="projects__row-img" src={Porject1} alt="porject1" />
-                        </div>
-                        <div class="main_content-project-content">
-                            <h3 class="main_content-project-content-heading">Portfolio</h3>
-                            <p class="main_content-project-content-paragraph">wertyudsdg sdg sd dsg sd g gsd gsdg sdg sd gs dg sdg sdg s dgsdg dh dhdtg dfgh yhjgkjh ghkjljhgkj gfjgklhkj</p>
-                            <a class="main_content-project-content-button-code">CODE</a>
-                            <a class="main_content-project-content-button-site">SITE</a>
-                        </div>
-                    </div>
-                    <div class="main_content-project-row">
-                        <div class="main_content-project-img">
-                            <img class="projects__row-img" src={Porject2} alt="porject1" />
+                            <img class="projects__row-img" src={Porject2} alt="porject2" />
                         </div>
                         <div class="main_content-project-content">
                             <h3 class="main_content-project-content-heading">Memes Generator</h3>
-                            <p class="main_content-project-content-paragraph">wertyudsdg sdg sd dsg sd g gsd gsdg sdg sd gs dg sdg sdg s dgsdg dh dhdtg dfgh yhjgkjh ghkjljhgkj gfjgklhkj</p>
-                            <a class="main_content-project-content-button-code">CODE</a>
-                            <a class="main_content-project-content-button-site">SITE</a>
+                            <p class="main_content-project-content-paragraph">Memes Generator is webpage where you can get memes template and can make your own memes by editing it on webpage <b>,</b> After that you can download it and share it with your friends <b>.</b></p>
+                            {/* <a class="main_content-project-content-button-code" href='https://github.com/saurabhcr007/memes-generator'>CODE</a> */}
+                            <a class="main_content-project-content-button-site" href='https://memegenerator007.netlify.app/'>Live Link</a>
                         </div>
                     </div>
                     <div class="main_content-project-row">
                         <div class="main_content-project-img">
-                            <img class="projects__row-img" src={Porject3} alt="porject1" />
+                            <img class="projects__row-img" src={Porject3} alt="porject3" />
                         </div>
                         <div class="main_content-project-content">
                             <h3 class="main_content-project-content-heading">Password Generator</h3>
-                            <p class="main_content-project-content-paragraph">wertyudsdg sdg sd dsg sd g gsd gsdg sdg sd gs dg sdg sdg s dgsdg dh dhdtg dfgh yhjgkjh ghkjljhgkj gfjgklhkj</p>
-                            <a class="main_content-project-content-button-code">CODE</a>
-                            <a class="main_content-project-content-button-site">SITE</a>
+                            <p class="main_content-project-content-paragraph">Password Generator is a Webpage where you can crate a unique password <b>,</b> which can you use it by copying it <b>,</b> you can set the length of the password <b>.</b> </p>
+                            {/* <a class="main_content-project-content-button-code" href='https://github.com/saurabhcr007/Password-Generator-by-html-css-js-'>CODE</a> */}
+                            <a class="main_content-project-content-button-site" href='https://saurabhcr007.github.io/Password-Generator-by-html-css-js-/'>Live Link</a>
                         </div>
                     </div>
                     <div class="main_content-project-row">
                         <div class="main_content-project-img">
-                            <img class="projects__row-img" src={Porject1} alt="porject1" />
+                            <img class="projects__row-img" src={Porject4} alt="porject4" />
                         </div>
                         <div class="main_content-project-content">
-                            <h3 class="main_content-project-content-heading">Portfolio</h3>
-                            <p class="main_content-project-content-paragraph">wertyudsdg sdg sd dsg sd g gsd gsdg sdg sd gs dg sdg sdg s dgsdg dh dhdtg dfgh yhjgkjh ghkjljhgkj gfjgklhkj</p>
-                            <a class="main_content-project-content-button-code">CODE</a>
-                            <a class="main_content-project-content-button-site">SITE</a>
+                            <h3 class="main_content-project-content-heading">EduLABS (User Interactive Lab Simulator)</h3>
+                            <p class="main_content-project-content-paragraph">EduLABS is a android application <b>,</b> </p>
+                            {/* <a class="main_content-project-content-button-code" href='https://github.com/saurabhcr007/EduLABs'>CODE</a> */}
+                            <a class="main_content-project-content-button-site" href='https://drive.google.com/drive/folders/1ZGQsg3W5EHN6oI0OlXag-pqLAEpV5I99?usp=share_link'>Download Link</a>
                         </div>
                     </div>
                 </div>

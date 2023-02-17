@@ -71,28 +71,32 @@ background-size: 20px 20px;
     letter-spacing: 1.5px;
     word-spacing: 2px;
 }
-.main_content-project-content-button-code{
+/* .main_content-project-content-button-code{
     color: rgb(255, 255, 255);
     font-size: 1.2rem;
     font-weight: bold;
     cursor: pointer;
-    border: 2px solid rebeccapurple;
+    background-color: gray;
     border-radius: 5px;
     padding: 10px;
-    position: relative;
     margin: 6rem;
+} */
+.main_content-project-content{
+    display: flex;
+    flex-direction: column;
 }
-
 .main_content-project-content-button-site{
     color: rgb(255, 255, 255);
     font-size: 1.2rem;
+    text-align: center;
     cursor: pointer;
     font-weight: bold;
-    border: 2px solid rebeccapurple;
+    background-color: gray;
     border-radius: 5px;
-    padding: 10px;
-    position: relative;
-    margin: 5rem;
+    padding: 5px;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 10%;
 }
 .main_content-project-content-button-site:hover{
     color: rgb(0, 0, 0);
