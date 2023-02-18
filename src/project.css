@@ -17,6 +17,7 @@ background-size: 20px 20px;
 .main_heading-project{
     justify-content: center;
     align-items: center;
+    margin-bottom: 10%;
 }
 .main_heading-project-topic{
     font-size: 2rem;

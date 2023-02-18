@@ -43,7 +43,7 @@ function App() {
           <div class="main-footer_upper">
             <div class="main-footer_about">
               <h2 class="main-footer_about-heading">SAURABH CHAUDHARY</h2>
-              <p class="main-footer_description">"A Developer Student , Who is dedicated to enhancing programming skills to build efficient, user-friendly software applications for real-world problems."</p>
+              <p class="main-footer_description">"A Developer Student , Who is dedicated towards enhancing programming skills to build efficient, user-friendly software applications for real-world problems."</p>
             </div>
             <div class="main-footer_social">
               <h2 class="main-footer_about-heading">Social</h2>

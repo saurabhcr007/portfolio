@@ -27,6 +27,7 @@
     margin-top: 10%;
     grid-template-columns: 1fr 1fr;
     grid-gap: 10rem;
+    margin-bottom: 10%;
 }
 .about_content-title{
     font-weight: 700;
