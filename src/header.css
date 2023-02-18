@@ -90,3 +90,47 @@
     font-weight: 700;
     transition: color .3s;
 }
+.footer_main{
+    max-width: 120rem;
+    margin: auto;
+    width: 80%;
+}
+.main-footer_upper {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 0;
+}
+.main-footer_about-heading{
+    font-size: 2rem;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.main-footer_social {
+    margin-top: 2rem;
+    color: #eee;
+    font-size: 1.5rem;
+    line-height: 1.7;
+}
+.main-footer_social-icons{
+    margin-top: 1rem;
+}
+.footer_icon{
+    text-decoration: none;
+    color: inherit;
+}
+.s_links{
+    margin-right: 1rem;
+    width: 2.5rem;
+}
+.main-footer_lower {
+    padding: 1rem 0;
+    border-top: 1px solid #444;
+    color: #000000;
+    font-size: 1rem;
+    text-align: center;
+}
+.main-footer_description{
+    margin-top: 1.5rem;
+    width: 40%;
+}

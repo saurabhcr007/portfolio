@@ -1,9 +1,9 @@
 import Github from './Images/github.png'
-import Email from './Images/email.png'
-import Epic from './Images/epic_games.png'
-import Leetcode from './Images/leetcode.png'
-import Linkedin from './Images/linkedin.png'
+import Discord from './Images/discord.png'
 import Reddit from './Images/reddit.png'
+import Linkedin from './Images/linkedin.png'
+import Email from './Images/email.png'
+import Leetcode from './Images/leetcode.png'
 import Steam from './Images/steam.png'
 import './home.css'
 
@@ -23,6 +23,9 @@ function Home() {
               </div>
               <div class="s_link">
                 <a href="https://leetcode.com/saurabhCR007/"><img src={Leetcode} class="slinks"></img></a>
+              </div>
+              <div class="s_link">
+                <a href="https://discord.com/channels/564737787715256330"><img src={Discord} class="slinks"></img></a>
               </div>
               <div class="s_link">
                 <a href="https://www.reddit.com/user/Saurabh_cr_007"><img src={Reddit} class="slinks"></img></a>

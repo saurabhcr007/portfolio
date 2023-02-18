@@ -10,7 +10,7 @@ function Project() {
                 <div class="main_heading-project">
                     <div class="main_heading-project-topic"><h2><u>PROJECTS</u></h2>
                     </div>
-                    <div class="main_heading-project-sub-topic"><p>Here are my some projects which are made by me in individually or in team</p>
+                    <div class="main_heading-project-sub-topic"><p>Here are my some projects which are made by me as individually or in team</p>
                     </div>
                 </div>
                 <div class="main_content-project">
