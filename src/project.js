@@ -32,7 +32,7 @@ function Project() {
                         </div>
                         <div class="main_content-project-content">
                             <h3 class="main_content-project-content-heading">Password Generator</h3>
-                            <p class="main_content-project-content-paragraph">Password Generator is a Webpage where you can crate a unique password <b>,</b> which can you use it by copying it <b>,</b> you can set the length of the password <b>.</b> </p>
+                            <p class="main_content-project-content-paragraph">A password generator web application automatically generates strong and secure passwords for users<b>.</b> It has customizable settings and should be designed with security in mind, including encryption of passwords and protection against hacking attempts<b>.</b> It provides an easy and secure way for users to create strong passwords<b>.</b> </p>
                             {/* <a class="main_content-project-content-button-code" href='https://github.com/saurabhcr007/Password-Generator-by-html-css-js-'>CODE</a> */}
                             <a class="main_content-project-content-button-site" href='https://saurabhcr007.github.io/Password-Generator-by-html-css-js-/' target="_blank">Live Link</a>
                         </div>
