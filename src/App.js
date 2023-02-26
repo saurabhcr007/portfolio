@@ -15,21 +15,21 @@ function App() {
             <div class="my_image">
               <img src={Photo} class="header_photo"></img>
             </div>
-            <spam class="my-name">SAURABH CHAUDHARY</spam>
+            <span class="my-name">SAURABH CHAUDHARY</span>
           </div>
           <div class="header_menu">
             <div class="header_items">
               <div class="header_link">
-                <spam class="links"><a href='#/Home'>home</a></spam>
+                <span class="links"><a href='#home-sec'>home</a></span>
               </div>
               <div class="header_link">
-                <spam class="links"><a href='#/about'>About</a></spam>
+                <span class="links"><a href='#about'>About</a></span>
               </div>
               <div class="header_link">
-                <spam class="links"><a href='#/project'>projects</a></spam>
+                <span class="links"><a href='#project'>projects</a></span>
               </div>
               <div class="header_link">
-                <spam class="links"><a href="https://drive.google.com/file/d/1VFd23sWfrjW74J_uNm1Fckr_N2B8QJxn/view?usp=share_link" target="_blank">Resume</a></spam>
+                <span class="links"><a href="https://drive.google.com/file/d/1VFd23sWfrjW74J_uNm1Fckr_N2B8QJxn/view?usp=share_link" target="_blank">Resume</a></span>
               </div>
             </div>
           </div>

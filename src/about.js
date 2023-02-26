@@ -3,7 +3,7 @@ import './about.css'
 function About(){
     return(
         <div class="info">
-            <section class="about">
+            <div id="about">
                 <div class="main_heading">
                     <spam class="main_heading_about">
                         <u>ABOUT</u>
@@ -35,7 +35,7 @@ function About(){
                         </div>
                     </div>
                 </div>
-            </section>
+            </div>
         </div>
     );
 }

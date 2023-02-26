@@ -6,7 +6,7 @@ import Porject4 from './Images/project4.png';
 function Project() {
     return (
         <div class="project_main">
-            <section class="project">
+            <section id="project">
                 <div class="main_heading-project">
                     <div class="main_heading-project-topic"><h2><u>PROJECTS</u></h2>
                     </div>

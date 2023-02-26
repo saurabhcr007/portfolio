@@ -10,7 +10,7 @@ import './home.css'
 function Home() {
     return (
       <div class="ghar">
-        <section class="Home">
+        <section class="Home" id="home-sec">
         <div class="body_content">
           <div class="body_text_top">
             <h1 class="naam"><b class="wave">&#128075;</b>HELLO , I'M SAURABH CHAUDHARY</h1>
