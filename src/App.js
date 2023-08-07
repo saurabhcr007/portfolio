@@ -29,7 +29,7 @@ function App() {
                 <span class="links"><a href='#project'>projects</a></span>
               </div>
               <div class="header_link">
-                <span class="links"><a href="https://drive.google.com/file/d/1VFd23sWfrjW74J_uNm1Fckr_N2B8QJxn/view?usp=share_link" target="_blank">Resume</a></span>
+                <span class="links"><a href="https://drive.google.com/file/d/1W3TMQirGiG_WRgBX1L5hexXDOUcy-UaV/view?usp=share_link" target="_blank">Resume</a></span>
               </div>
             </div>
           </div>

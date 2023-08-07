@@ -6,11 +6,17 @@ import Email from './Images/email.png'
 import Leetcode from './Images/leetcode.png'
 import Steam from './Images/steam.png'
 import './home.css'
+import Particle from './background/particle'
+import Particles from 'react-particles'
 
 function Home() {
     return (
       <div class="ghar">
         <section class="Home" id="home-sec">
+        {/* <div id="particles-js"></div>
+                                            <div class="count-particles">
+                                            <span class="js-count-particles"><Particle params={Particle}></Particle></span>
+                                            </div> */}
         <div class="body_content">
           <div class="body_text_top">
             <h1 class="naam"><b class="wave">&#128075;</b>HELLO , I'M SAURABH CHAUDHARY</h1>
